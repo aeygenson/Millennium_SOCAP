@@ -8,12 +8,14 @@ REFERENCE_DATA_PATH = "data/instrument_reference.csv"
 # Initialize the cleaner
 cleaner = MarketDataCleaner(
     validate_active_only=True,
-    track_dropped_rows=True
+    track_dropped_rows=True,
+    fix_dot_in_symbol=True
+
 )
 
 # Load and clean data
 logger.info("Starting market data cleaning pipeline...")
-cleaner.load_data(MARKET_DATA_PATH, REFERENCE_DATA_PATH)
+cleaner.load_data(MARKET_DATA_PATH, REFERENCE_DATA_PATH,)
 cleaner.clean()
 
 # Output a summary of the cleaned data
