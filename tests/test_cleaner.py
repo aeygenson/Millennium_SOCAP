@@ -110,3 +110,25 @@ def test_missing_required_columns(tmp_path):
     cleaner.load_data(str(market_path), str(reference_path))
     with pytest.raises(KeyError):
         cleaner.clean()
+
+def test_dot_in_symbol_fix(tmp_path):
+    market_data = pd.DataFrame([
+        {"Symbol": "AAPL.NYSE", "InstrumentType": "Stock", "Exchange": "", "OpenPrice": 150, "HighPrice": 155, "LowPrice": 149, "ClosePrice": 154, "Volume": 1000000, "OpenInterest": 5000, "Date": "2024-04-01"},
+    ])
+    reference_data = pd.DataFrame([
+        {"Symbol": "AAPL", "InstrumentType": "Stock", "Exchange": "NYSE", "Status": "Active"},
+    ])
+    market_path = tmp_path / "market.csv"
+    reference_path = tmp_path / "reference.csv"
+    market_data.to_csv(market_path, index=False)
+    reference_data.to_csv(reference_path, index=False)
+
+    cleaner = MarketDataCleaner(fix_dot_in_symbol=True)
+    cleaner.load_data(str(market_path), str(reference_path))
+    cleaner.clean()
+    df = cleaner.get_clean_data()
+
+    assert len(df) == 1
+    assert df.iloc[0]['Symbol'] == 'AAPL'
+    assert df.iloc[0]['Exchange'] == 'NYSE'
+
