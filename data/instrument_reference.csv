@@ -1,0 +1,115 @@
+Symbol,InstrumentType,Exchange,Description,Status,Currency,Sector,ContractMonth,LastUpdate
+AAPL,Stock,NYSE,AAPL Common Stock,Active,USD,Consumer,,2025-04-02
+MSFT,Stock,NASDAQ,MSFT Common Stock,Active,USD,Technology,,2025-04-02
+GOOGL,Stock,AMEX,GOOGL Common Stock,Active,USD,Industrial,,2025-04-02
+AMZN,Stock,NYSE,AMZN Common Stock,Active,USD,Industrial,,2025-04-02
+META,Stock,AMEX,META Common Stock,Active,USD,Finance,,2025-04-02
+TSLA,Stock,NASDAQ,TSLA Common Stock,Active,USD,Energy,,2025-04-02
+NVDA,Stock,AMEX,NVDA Common Stock,Active,USD,Consumer,,2025-04-02
+JPM,Stock,NASDAQ,JPM Common Stock,Active,USD,Industrial,,2025-04-02
+V,Stock,NYSE,V Common Stock,Active,USD,Technology,,2025-04-02
+WMT,Stock,AMEX,WMT Common Stock,Active,USD,Finance,,2025-04-02
+PG,Stock,AMEX,PG Common Stock,Active,USD,Consumer,,2025-04-02
+JNJ,Stock,NASDAQ,JNJ Common Stock,Active,USD,Healthcare,,2025-04-02
+UNH,Stock,AMEX,UNH Common Stock,Active,USD,Technology,,2025-04-02
+HD,Stock,AMEX,HD Common Stock,Active,USD,Healthcare,,2025-04-02
+BAC,Stock,NYSE,BAC Common Stock,Active,USD,Healthcare,,2025-04-02
+MA,Stock,NYSE,MA Common Stock,Active,USD,Industrial,,2025-04-02
+PFE,Stock,NYSE,PFE Common Stock,Active,USD,Finance,,2025-04-02
+DIS,Stock,AMEX,DIS Common Stock,Active,USD,Industrial,,2025-04-02
+ADBE,Stock,NYSE,ADBE Common Stock,Active,USD,Industrial,,2025-04-02
+NFLX,Stock,NYSE,NFLX Common Stock,Active,USD,Consumer,,2025-04-02
+PYPL,Stock,AMEX,PYPL Common Stock,Active,USD,Energy,,2025-04-02
+INTC,Stock,AMEX,INTC Common Stock,Active,USD,Technology,,2025-04-02
+CSCO,Stock,NASDAQ,CSCO Common Stock,Active,USD,Finance,,2025-04-02
+VZ,Stock,NASDAQ,VZ Common Stock,Active,USD,Industrial,,2025-04-02
+ES,Future,NYMEX,ES Futures Contract,Active,USD,Metals,,2025-04-02
+ESM5,Future,NYMEX,ES Futures Contract - June 2025,Active,USD,FX,2025-06-20,2025-04-02
+ESM5,Future,NYMEX,ES Futures Contract - June 2025,Active,USD,FX,2025-06-20,2025-04-02
+ESM5,Future,ICE,ES Futures Contract - June 2025,Active,USD,Interest Rates,2025-06-20,2025-04-02
+ESU5,Future,CME,ES Futures Contract - September 2025,Active,USD,Metals,2025-09-19,2025-04-02
+NQ,Future,COMEX,NQ Futures Contract,Active,USD,Interest Rates,,2025-04-02
+NQM5,Future,CBOT,NQ Futures Contract - June 2025,Active,USD,Index,2025-06-20,2025-04-02
+NQM5,Future,ICE,NQ Futures Contract - June 2025,Active,USD,FX,2025-06-20,2025-04-02
+NQM5,Future,CME,NQ Futures Contract - June 2025,Active,USD,FX,2025-06-20,2025-04-02
+NQU5,Future,CBOT,NQ Futures Contract - September 2025,Active,USD,Metals,2025-09-19,2025-04-02
+CL,Future,COMEX,CL Futures Contract,Active,USD,Agriculture,,2025-04-02
+CLJ5,Future,NYMEX,CL Futures Contract - April 2025,Active,USD,Interest Rates,2025-04-18,2025-04-02
+CLK5,Future,CME,CL Futures Contract - May 2025,Active,USD,Agriculture,2025-05-16,2025-04-02
+CLM5,Future,ICE,CL Futures Contract - June 2025,Active,USD,Agriculture,2025-06-20,2025-04-02
+CLN5,Future,CME,CL Futures Contract - July 2025,Active,USD,Energy,2025-07-18,2025-04-02
+GC,Future,COMEX,GC Futures Contract,Active,USD,Agriculture,,2025-04-02
+GCJ5,Future,ICE,GC Futures Contract - April 2025,Active,USD,Metals,2025-04-18,2025-04-02
+GCK5,Future,CME,GC Futures Contract - May 2025,Active,USD,FX,2025-05-16,2025-04-02
+GCM5,Future,CME,GC Futures Contract - June 2025,Active,USD,Metals,2025-06-20,2025-04-02
+GCN5,Future,ICE,GC Futures Contract - July 2025,Active,USD,Energy,2025-07-18,2025-04-02
+SI,Future,NYMEX,SI Futures Contract,Active,USD,Interest Rates,,2025-04-02
+SIJ5,Future,CBOT,SI Futures Contract - April 2025,Active,USD,Energy,2025-04-18,2025-04-02
+SIK5,Future,COMEX,SI Futures Contract - May 2025,Active,USD,Agriculture,2025-05-16,2025-04-02
+SIM5,Future,CME,SI Futures Contract - June 2025,Active,USD,Interest Rates,2025-06-20,2025-04-02
+SIN5,Future,NYMEX,SI Futures Contract - July 2025,Active,USD,Agriculture,2025-07-18,2025-04-02
+ZB,Future,CBOT,ZB Futures Contract,Active,USD,Agriculture,,2025-04-02
+ZBM5,Future,CBOT,ZB Futures Contract - June 2025,Active,USD,Interest Rates,2025-06-20,2025-04-02
+ZBM5,Future,COMEX,ZB Futures Contract - June 2025,Active,USD,Interest Rates,2025-06-20,2025-04-02
+ZBM5,Future,ICE,ZB Futures Contract - June 2025,Active,USD,FX,2025-06-20,2025-04-02
+ZBU5,Future,ICE,ZB Futures Contract - September 2025,Active,USD,Index,2025-09-19,2025-04-02
+ZN,Future,ICE,ZN Futures Contract,Active,USD,Metals,,2025-04-02
+ZNM5,Future,CME,ZN Futures Contract - June 2025,Active,USD,Energy,2025-06-20,2025-04-02
+ZNM5,Future,NYMEX,ZN Futures Contract - June 2025,Active,USD,Metals,2025-06-20,2025-04-02
+ZNM5,Future,CME,ZN Futures Contract - June 2025,Active,USD,FX,2025-06-20,2025-04-02
+ZNU5,Future,CME,ZN Futures Contract - September 2025,Active,USD,Agriculture,2025-09-19,2025-04-02
+ZT,Future,CBOT,ZT Futures Contract,Active,USD,Agriculture,,2025-04-02
+ZTJ5,Future,CME,ZT Futures Contract - April 2025,Active,USD,FX,2025-04-18,2025-04-02
+ZTK5,Future,COMEX,ZT Futures Contract - May 2025,Active,USD,Interest Rates,2025-05-16,2025-04-02
+ZTM5,Future,CBOT,ZT Futures Contract - June 2025,Active,USD,Agriculture,2025-06-20,2025-04-02
+ZTN5,Future,CME,ZT Futures Contract - July 2025,Active,USD,Interest Rates,2025-07-18,2025-04-02
+ZF,Future,ICE,ZF Futures Contract,Active,USD,FX,,2025-04-02
+ZFM5,Future,ICE,ZF Futures Contract - June 2025,Active,USD,Agriculture,2025-06-20,2025-04-02
+ZFM5,Future,NYMEX,ZF Futures Contract - June 2025,Active,USD,FX,2025-06-20,2025-04-02
+ZFM5,Future,COMEX,ZF Futures Contract - June 2025,Active,USD,Agriculture,2025-06-20,2025-04-02
+ZFU5,Future,NYMEX,ZF Futures Contract - September 2025,Active,USD,Metals,2025-09-19,2025-04-02
+ZC,Future,ICE,ZC Futures Contract,Active,USD,Agriculture,,2025-04-02
+ZCJ5,Future,CME,ZC Futures Contract - April 2025,Active,USD,Interest Rates,2025-04-18,2025-04-02
+ZCK5,Future,CME,ZC Futures Contract - May 2025,Active,USD,Energy,2025-05-16,2025-04-02
+ZCM5,Future,NYMEX,ZC Futures Contract - June 2025,Active,USD,Agriculture,2025-06-20,2025-04-02
+ZCN5,Future,CBOT,ZC Futures Contract - July 2025,Active,USD,Energy,2025-07-18,2025-04-02
+ZS,Future,CME,ZS Futures Contract,Active,USD,Energy,,2025-04-02
+ZSJ5,Future,COMEX,ZS Futures Contract - April 2025,Active,USD,Interest Rates,2025-04-18,2025-04-02
+ZSK5,Future,COMEX,ZS Futures Contract - May 2025,Active,USD,Agriculture,2025-05-16,2025-04-02
+ZSM5,Future,NYMEX,ZS Futures Contract - June 2025,Active,USD,Interest Rates,2025-06-20,2025-04-02
+ZSN5,Future,CBOT,ZS Futures Contract - July 2025,Active,USD,FX,2025-07-18,2025-04-02
+ZW,Future,ICE,ZW Futures Contract,Active,USD,Interest Rates,,2025-04-02
+ZWJ5,Future,COMEX,ZW Futures Contract - April 2025,Active,USD,Energy,2025-04-18,2025-04-02
+ZWK5,Future,ICE,ZW Futures Contract - May 2025,Active,USD,Agriculture,2025-05-16,2025-04-02
+ZWM5,Future,COMEX,ZW Futures Contract - June 2025,Active,USD,Interest Rates,2025-06-20,2025-04-02
+ZWN5,Future,ICE,ZW Futures Contract - July 2025,Active,USD,Agriculture,2025-07-18,2025-04-02
+6E,Future,NYMEX,6E Futures Contract,Active,USD,Metals,,2025-04-02
+6EJ5,Future,CBOT,6E Futures Contract - April 2025,Active,USD,Metals,2025-04-18,2025-04-02
+6EK5,Future,NYMEX,6E Futures Contract - May 2025,Active,USD,Energy,2025-05-16,2025-04-02
+6EM5,Future,COMEX,6E Futures Contract - June 2025,Active,USD,Energy,2025-06-20,2025-04-02
+6EN5,Future,ICE,6E Futures Contract - July 2025,Active,USD,Index,2025-07-18,2025-04-02
+6J,Future,CBOT,6J Futures Contract,Active,USD,Interest Rates,,2025-04-02
+6JJ5,Future,ICE,6J Futures Contract - April 2025,Active,USD,Metals,2025-04-18,2025-04-02
+6JK5,Future,ICE,6J Futures Contract - May 2025,Active,USD,Interest Rates,2025-05-16,2025-04-02
+6JM5,Future,ICE,6J Futures Contract - June 2025,Active,USD,Metals,2025-06-20,2025-04-02
+6JN5,Future,NYMEX,6J Futures Contract - July 2025,Active,USD,Index,2025-07-18,2025-04-02
+6B,Future,NYMEX,6B Futures Contract,Active,USD,Metals,,2025-04-02
+6BJ5,Future,ICE,6B Futures Contract - April 2025,Active,USD,Interest Rates,2025-04-18,2025-04-02
+6BK5,Future,COMEX,6B Futures Contract - May 2025,Active,USD,Interest Rates,2025-05-16,2025-04-02
+6BM5,Future,CBOT,6B Futures Contract - June 2025,Active,USD,Energy,2025-06-20,2025-04-02
+6BN5,Future,CBOT,6B Futures Contract - July 2025,Active,USD,Metals,2025-07-18,2025-04-02
+HG,Future,CME,HG Futures Contract,Active,USD,Energy,,2025-04-02
+HGJ5,Future,CBOT,HG Futures Contract - April 2025,Active,USD,Metals,2025-04-18,2025-04-02
+HGK5,Future,ICE,HG Futures Contract - May 2025,Active,USD,Index,2025-05-16,2025-04-02
+HGM5,Future,ICE,HG Futures Contract - June 2025,Active,USD,Index,2025-06-20,2025-04-02
+HGN5,Future,CME,HG Futures Contract - July 2025,Active,USD,Agriculture,2025-07-18,2025-04-02
+NG,Future,ICE,NG Futures Contract,Active,USD,Metals,,2025-04-02
+NGJ5,Future,ICE,NG Futures Contract - April 2025,Active,USD,Metals,2025-04-18,2025-04-02
+NGK5,Future,ICE,NG Futures Contract - May 2025,Active,USD,Agriculture,2025-05-16,2025-04-02
+NGM5,Future,CME,NG Futures Contract - June 2025,Active,USD,Interest Rates,2025-06-20,2025-04-02
+NGN5,Future,CBOT,NG Futures Contract - July 2025,Active,USD,FX,2025-07-18,2025-04-02
+ORCL,Stock,NYSE,ORCL Common Stock,Delisted,USD,Technology,,2025-04-02
+IBM,Stock,AMEX,IBM Common Stock,Suspended,USD,Finance,,2025-04-02
+MSTR,Stock,AMEX,MSTR Common Stock,Active,USD,Energy,,2025-04-02
+ZVZZT,Stock,NASDAQ,ZVZZT Common Stock,Active,USD,Energy,,2025-04-02
+ZBZX,Stock,AMEX,ZBZX Common Stock,Delisted,USD,Finance,,2025-04-02
